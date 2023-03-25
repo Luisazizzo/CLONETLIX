@@ -1,4 +1,4 @@
-import moviesFile from "/movies.js";
+import moviesFile from "./movies.js";
 
 const heroSection = document.querySelector(".hero");
 const hamburger = document.querySelector(".hamburger");
